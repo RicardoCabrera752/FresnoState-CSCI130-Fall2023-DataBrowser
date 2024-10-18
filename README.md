@@ -8,7 +8,7 @@ To run this program you must install XAMMP onto your machine.
 
 Use the following link to download XAMPP: https://www.apachefriends.org/index.html
 
-Once installed go to your htdocs folder in the XAMPP folder. Created a folder called mysite in the htdocs folder. Then download the source code files and extract them to mysite.
+Once installed go to your htdocs folder in the XAMPP folder. Creat a folder called mysite in the htdocs folder. Then create a folder called DataBrowser in the mysite folder. Download the source code files and extract them to the DataBrowser folder.
 
 How to run the program:
 
